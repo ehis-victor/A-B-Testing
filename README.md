@@ -128,11 +128,15 @@ A/B testing turns guesswork into strategy. Even when the result is _null_, it te
 
 ## 📂 Notebook + Dataset
 
-You can find the full notebook and cleaned dataset in this repository.
+[You can find the full notebook and cleaned dataset in this repository](https://github.com/ehis-victor/A-B-Testing/)
 
 ---
 
 ## ✍️ About the Author
 
 I'm an Electrical Engineer and a data science enthusiast passionate about turning raw data into real insight.  
-Let’s connect on [LinkedIn](www.linkedin.com/in/ekikhalo-victor) or [Kaggle](https://www.kaggle.com/ehisvictor) and discuss data, analytics, and experiments!
+Let’s connect on:
+[LinkedIn](www.linkedin.com/in/ekikhalo-victor)
+[Kaggle](https://www.kaggle.com/ehisvictor) 
+[GitHub](https://github.com/ehis-victor)
+and discuss data, analytics, data science, and experiments!
